@@ -21,7 +21,7 @@ The code has been tested running under Python 3.7.0. The required packages are a
 * scikit-learn == 1.0.1
 * numpy == 1.21.2
 
-* Train
+## Train
 
 ```
 python main.py 
