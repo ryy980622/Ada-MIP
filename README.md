@@ -26,4 +26,19 @@ The code has been tested running under Python 3.7.0. The required packages are a
 ```
 python main.py 
 ```
+## Citation 
 
+If you find this project useful in your research, please cite the following paper:
+
+```bibtex
+@article{ren2023ada,
+  title={Ada-MIP: Adaptive Self-supervised Graph Representation Learning via Mutual Information and Proximity Optimization},
+  author={Ren, Yuyang and Zhang, Haonan and Yu, Peng and Fu, Luoyi and Cao, Xinde and Wang, Xinbing and Chen, Guihai and Long, Fei and Zhou, Chenghu},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={17},
+  number={5},
+  pages={1--23},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
